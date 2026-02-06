@@ -44,4 +44,17 @@ I am currently completing the **Python + Machine Learning A–Z (Udemy)** course
 
 ## 🎯 Goal of This Repository
 - Build **strong Python & data handling foundations**
-- Lear
+- Learn by **writing real code**
+- Maintain a **public learning record**
+- Prepare for **Machine Learning & AI roles**
+
+---
+
+## 🔜 Next Topics (Planned)
+- Seaborn
+- Data Preprocessing
+- Scikit-learn
+- Machine Learning Models
+- Real-world ML Projects
+
+📅 **Status:** Actively learning & updating this repository.
